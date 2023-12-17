@@ -1,6 +1,8 @@
 # Multilingual-Hindi-English-Text-Similarit
-This repository contains code and a project report for conducting cross-language text similarity analysis using semantic techniques. The analysis enables content comparison for tasks like text similarity, plagiarism detection, and information retrieval.
+## Access the code
 
+You can access the project code  in the Google Drive folder using the link below:
+[**Project Code**](https://drive.google.com/drive/folders/10oiwoUjsHVwb7xe94argKWDkGkiyhCOW?usp=sharing)
 
 ## Code Dependencies
 
