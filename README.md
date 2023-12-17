@@ -6,7 +6,7 @@ You can access the project code  in the Google Drive folder using the link below
 
 ## Code Dependencies
 
-To run the code in this repository, you will need to install the following Python libraries and dependencies:
+To run the code  you will need to install the following Python libraries and dependencies:
 
 1. **NLTK (Natural Language Toolkit):**
    - You can install NLTK using pip:
